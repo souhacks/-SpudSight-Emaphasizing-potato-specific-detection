@@ -63,14 +63,6 @@ The goal of this project is to develop a robust and efficient detection model fo
 
 ---
 
-## Architecture
-
-The project uses YOLOv5, a cutting-edge object detection framework that processes images in real-time. OpenCV is integrated for live video feed analysis and bounding box visualization.
-
-![YOLOv5 Architecture](link-to-image-placeholder)
-
----
-
 ## Technologies Used
 
 - **Python**: Core programming language.
